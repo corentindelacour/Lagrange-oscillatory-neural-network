@@ -1,0 +1,2 @@
+The main Matlab script is "LagONN_3SATsolver".
+Note that a Matlab version compatible with perl commands is required to build the Lagrange function.
